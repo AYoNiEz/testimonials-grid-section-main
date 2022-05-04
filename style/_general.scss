@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    
+}
+main{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: 4rem 1.5rem;
+    background-color: $Lightblue;
+}
